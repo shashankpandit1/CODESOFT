@@ -34,7 +34,7 @@ int main()
     cin >> play;
     if (play == 'y')
     {
-        main();ydcbyuvbyuvfbuhsbv
+        main();
     }
     else
     {
